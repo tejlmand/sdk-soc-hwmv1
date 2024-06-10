@@ -1,0 +1,4 @@
+build:
+  settings:
+    soc_root: .
+    board_root: .
